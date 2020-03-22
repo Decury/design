@@ -1,2 +1,2 @@
-# design
-/design: all things design
+# Decury /design
+This repository features everything design of Decury.
